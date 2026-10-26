@@ -1,6 +1,5 @@
 ### Hello, welcome to my github profile!
-
-<br />
+---
 <br />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
 <img align="left" alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />
